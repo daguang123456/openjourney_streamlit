@@ -10,7 +10,7 @@ import webbrowser
 import openai
 from openai.error import InvalidRequestError
 import requests
-from diffusers import StableDiffusionPipeline
+# from diffusers import StableDiffusionPipeline
 import torch
 import io
 from PIL import Image
